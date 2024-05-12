@@ -1,0 +1,9 @@
+[055月2024 19:30:21.524] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 12, --assetsDir, E:\.gradle\caches\forge_gradle\assets, --gameDir, ., --mixin.config, ats.mixins.json]
+[055月2024 19:30:21.540] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Oracle Corporation Java HotSpot(TM) 64-Bit Server VM 17.0.2+8-LTS-86
+[055月2024 19:30:21.542] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 17.0.2 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[055月2024 19:30:21.829] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[055月2024 19:30:22.139] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[055月2024 19:30:22.227] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[055月2024 19:30:22.508] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: Intel(R) HD Graphics 630 GL version 4.6.0 - Build 31.0.101.2121, Intel
+[055月2024 19:30:22.547] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///E:/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar!/ Service=ModLauncher Env=CLIENT
+[055月2024 19:30:23.974] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!

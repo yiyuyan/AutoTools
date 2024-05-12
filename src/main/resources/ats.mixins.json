@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.ats.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ats.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "MinecraftMixin",
+    "PacketListenerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
